@@ -139,6 +139,39 @@ The selected theme is automatically saved using **Local Storage**.
 
 ---
 
+## ⚡ Optimization Changelog
+
+The following optimizations were implemented to improve performance, accessibility, responsiveness, and overall user experience:
+
+- ✅ Added semantic HTML5 elements such as `<main>` and maintained a proper heading hierarchy for better document structure.
+- ✅ Improved accessibility by adding `aria-label` attributes to interactive elements and `aria-hidden="true"` to decorative icons.
+- ✅ Added explicit `width` and `height` attributes to images to reduce Cumulative Layout Shift (CLS).
+- ✅ Enabled lazy loading (`loading="lazy"`) and asynchronous image decoding (`decoding="async"`) for non-critical images.
+- ✅ Added keyboard focus styles using `:focus-visible` to improve keyboard navigation and accessibility.
+- ✅ Improved color contrast across the website to meet accessibility standards.
+- ✅ Converted contact information into clickable `mailto:` and `tel:` links for better usability.
+- ✅ Optimized the responsive layout for desktop, tablet, and mobile devices using CSS media queries.
+- ✅ Added `rel="noopener noreferrer"` to external links for improved security and performance.
+- ✅ Included support for `prefers-reduced-motion` to minimize animations for users who prefer reduced motion.
+- ✅ Optimized hover effects, transitions, and responsive components for a smoother user experience.
+- ✅ Improved Lighthouse scores by optimizing accessibility, image loading, semantic structure, and performance.
+
+### 📊 Lighthouse Audit Results
+
+#### 🖥️ Desktop
+- 🚀 Performance: **98**
+- ♿ Accessibility: **96**
+- ✅ Best Practices: **100**
+- 🔍 SEO: **91**
+
+#### 📱 Mobile
+- 🚀 Performance: **97**
+- ♿ Accessibility: **96**
+- ✅ Best Practices: **100**
+- 🔍 SEO: **91**
+
+---
+
 ## 👩‍💻 Author
 
 **Pavani Reddy**
