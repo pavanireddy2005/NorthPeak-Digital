@@ -172,6 +172,12 @@ The following optimizations were implemented to improve performance, accessibili
 
 ---
 
+## AI Usage
+
+I used AI tools to brainstorm layout ideas, improve accessibility, optimize Lighthouse scores, and review semantic HTML. I carefully reviewed every suggestion, modified the code to match my design, adjusted the styling and responsiveness manually, and made final implementation decisions myself to ensure the project reflects my own understanding and approach.
+
+---
+
 ## 👩‍💻 Author
 
 **Pavani Reddy**

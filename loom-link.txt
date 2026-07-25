@@ -1,0 +1,10 @@
+Loom Video
+https://www.loom.com/share/c2af6cb5af8a4fadbd841faad04e5ea7
+
+There are three things I am especially proud of in this project.
+
+First, I am proud that the website is fully responsive and provides a consistent user experience across desktop, tablet, and mobile devices.
+Second, I focused on accessibility by using semantic HTML, ARIA labels, keyboard navigation support, and improved color contrast, which helped achieve high accessibility scores.
+Third, I optimized the website for performance by reducing layout shifts, optimizing images, and improving the overall Lighthouse scores while maintaining a clean and modern design.
+
+If I had more time, I would integrate a backend service for the contact form so that user messages could be stored in a database or sent directly through email instead of only using client-side validation.
